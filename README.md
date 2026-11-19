@@ -1,8 +1,9 @@
 How to use
-pkg update && pkg update -y
-pkg install git
-pkg install python 
-git clone https://github.com/Calonhacker1204/tracebyphish.git
-cd tracebyphish
-python tracker.py
+1.pkg update && pkg update -y
+2.pkg install git
+3.pkg install python 
+4.git clone https://github.com/Calonhacker1204/tracebyphish.git
+5.cd tracebyphish
+6.python tracker.py
+
 problem? t.me/alawnn
